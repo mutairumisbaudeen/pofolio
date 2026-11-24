@@ -1,0 +1,14 @@
+C:\Users\HP\misbaudeen\bin\Debug\net10.0\misbaudeen.exe
+C:\Users\HP\misbaudeen\bin\Debug\net10.0\misbaudeen.deps.json
+C:\Users\HP\misbaudeen\bin\Debug\net10.0\misbaudeen.runtimeconfig.json
+C:\Users\HP\misbaudeen\bin\Debug\net10.0\misbaudeen.dll
+C:\Users\HP\misbaudeen\bin\Debug\net10.0\misbaudeen.pdb
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.AssemblyInfoInputs.cache
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.AssemblyInfo.cs
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.csproj.CoreCompileInputs.cache
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.dll
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\refint\misbaudeen.dll
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.pdb
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\misbaudeen.genruntimeconfig.cache
+C:\Users\HP\misbaudeen\obj\Debug\net10.0\ref\misbaudeen.dll
